@@ -1,17 +1,5 @@
-# My Development Tools
+# Development Tools
 
-我的开发工具箱。持续更新中。
-
-只记录我在用的工具，所以
-
-1. 当我不用了或者找到更好的替代品，会移除掉旧记录。
-2. 不接受 Pull Request，有问题可以提 Issue。
-
-## 版权声明 (Copyright and License)
-
-Copyright 2016-2022 ADoyle (adoyle.h@gmail.com). The project is licensed under the **BSD 3-clause License**.
-
-See the [LICENSE][] file for the specific language governing permissions and limitations under the License.
 
 ## 说明
 
