@@ -1697,10 +1697,7 @@
 - [SteamTools](https://github.com/BeyondDimension/SteamTools): 「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [A Dark Room](https://github.com/doublespeakgames/adarkroom): 文字冒险游戏
 
-### 教你搜索
 
-- http://lmgtfy.com/ : 帮你 google/bing/duckduckgo
-- http://www.baidu-x.com/ : 帮你百度下
 
 -----
 
